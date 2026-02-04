@@ -1,9 +1,9 @@
 # AutoYield (/docs/risex/features/autoyield)
 
-import { Callout } from 'fumadocs-ui/components/callout';
+
 
 <Callout type="info">
-  **Status:** Coming soon
+ 
 </Callout>
 
 ## How AutoYield Works
